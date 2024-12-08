@@ -20,57 +20,13 @@ import project06Big from '../img/projects/06-big.jpg'
 const projects = [
     {
         id: 'project01',
-        title: 'Gaming streaming portal',
-        skills: 'React, Node.js, MongoDB',
+        title: 'TodoApp',
+        skills: 'HTML, CSS, JS',
         img: project01,
         imgBig: project01Big,
-        gitHubLink: 'https://github.com/'
+        gitHubLink: 'https://github.com/flowihs/todoApp.git'
     },
 
-    {
-        id: 'project02',
-        title: 'Video service',
-        skills: 'React, PHP, MySQL',
-        img: project02,
-        imgBig: project02Big,
-        gitHubLink: 'https://github.com/'
-    },
-
-    {
-        id: 'project03',
-        title: 'Video portal',
-        skills: 'Vue JS, Node.js, MongoDB',
-        img: project03,
-        imgBig: project03Big,
-        gitHubLink: 'https://github.com/'
-    },
-
-    {
-        id: 'project04',
-        title: 'Dating app',
-        skills: 'React Native',
-        img: project04,
-        imgBig: project04Big,
-        gitHubLink: 'https://github.com/'
-    },
-
-    {
-        id: 'project05',
-        title: 'Landing',
-        skills: 'HTML, SCSS, JS',
-        img: project05,
-        imgBig: project05Big,
-        gitHubLink: 'https://github.com/'
-    },
-    
-    {
-        id: 'project06',
-        title: 'Gaming community',
-        skills: 'React, PHP, MySQL',
-        img: project06,
-        imgBig: project06Big,
-        gitHubLink: 'https://github.com/'
-    },
 ]
 
 export {projects}
