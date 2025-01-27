@@ -14,7 +14,7 @@ export default function Navbar () {
             <div className="nav-row">
                 
                     <NavLink to="/" className="logo">
-						<strong>Freelancer</strong> portfolio
+						<strong>My</strong> portfolio
 					</NavLink>
               
                 
